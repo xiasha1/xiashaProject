@@ -1,0 +1,31 @@
+{
+  "name": "TOMTOP APP is very good!",
+  "short_name": "TOMTOP",
+  "icons": [{
+    "src": "//localhost:9090/msite/mtomtop/icon/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "//localhost:9090/msite/mtomtop/icon/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "//localhost:9090/msite//mtomtop/icon/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "//localhost:9090/msite/mtomtop/icon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "//localhost:9090/msite/mtomtop/icon/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "//localhost:9090?from=homescreen",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4d82b8",
+  "gcm_sender_id": "1061007880269",
+  "gcm_user_visible_only": true
+}
