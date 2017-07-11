@@ -1,5 +1,4 @@
 # PWA
-a project to test github
 1.PWA简介：
 
 Progressive Web App 是由谷歌提出推广的，在移动端利用提供的标准化框架，在网页应用中实现和原生应用相近的用户体验。
